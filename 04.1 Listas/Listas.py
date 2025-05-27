@@ -79,3 +79,5 @@ lista_anidada = [15, True, [25.5, 57.9, 30.6], False]
 print(lista_anidada)
 
 
+lista_a = [25, True, ["Programación 1", "Inglés", "Matemática"], True, 14.25, "Atenas"]
+print(lista_a[2][2])
